@@ -1,7 +1,6 @@
-
 import java.util.Scanner;
 
-public class count {
+public class Count {
   public static void main(String[] args) {
     Scanner keyboardInput = new Scanner(System.in);
     System.out.print("输入一个数字: ");
