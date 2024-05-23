@@ -33,7 +33,6 @@ public class SwitchStatements {
         dayName = "Invalid Day Num";
         break;
     }
-
     return dayName;
   }
 }
