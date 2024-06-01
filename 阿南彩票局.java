@@ -1,11 +1,11 @@
 import java.util.Scanner;
 public class zRq04 {
     public static void main(String[] args){
-        int suIji = (int)(Math.random()*100+10);
+        int suIji = (int)(Math.random()*90+10);
 
 
         Scanner input =new Scanner(System.in);
-        System.out.print("现在请你输入10-99任意数字:");
+        System.out.print("现在请你输入任意2位数字:");
         int num1 =input.nextInt();
         input.close();
         // 处理数字
